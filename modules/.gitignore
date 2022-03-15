@@ -1,0 +1,5 @@
+.terraform
+terraform.tfstate
+terraform.tfstate.*
+discord_token.auto.tfvars
+owner_id.auto.tfvars
