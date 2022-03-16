@@ -3,3 +3,4 @@ terraform.tfstate
 terraform.tfstate.*
 discord_token.auto.tfvars
 owner_id.auto.tfvars
+admins.auto.tfvars

@@ -7,3 +7,8 @@ variable owner_id {
   description = "User ID of the person to transfer ownership to after creation"
   type        = string
 }
+
+variable admins {
+  description = "List of discord user ids to make admins"
+  type        = list(string)
+}
